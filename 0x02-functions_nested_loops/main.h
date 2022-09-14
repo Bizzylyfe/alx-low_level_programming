@@ -36,5 +36,9 @@ int print_last_digit(int);
 /**
  *  prints the last digit of a number
  */
+void jack_bauer(void);
+/**
+ * prints every minute of the day of Jack Bauer
+ */
 
 #endif
