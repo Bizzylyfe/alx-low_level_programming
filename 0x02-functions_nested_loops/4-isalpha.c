@@ -4,7 +4,7 @@
  *
  * @c: argument
  *
- * Return: 1 if true, 0 if false
+ *  Return: 1 if true, 0 if false
  */
 int _isalpha(int c)
 {
@@ -19,3 +19,4 @@ int _isalpha(int c)
 	_putchar('\n');
 	return (0);
 }
+
