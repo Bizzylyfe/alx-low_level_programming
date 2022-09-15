@@ -4,11 +4,9 @@
 /**
 *main - print if the number is positive,zero or negative
 *
-*Discription using the main function
-Return: always 0
-*
-*betty style doc for function main goes there
-*
+* Description: using the main function
+* this program prints positive, zero or negative
+* Return 0
 */
 int main(void)
 {
