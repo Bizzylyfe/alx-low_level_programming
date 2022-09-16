@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_most_numbers - prints all accept 4 and 9
+ * print_most_numbers - prints all accept 2 and 4
  * Return: all numbers except 4 and 9
  */
 
@@ -11,7 +11,7 @@ void print_most_numbers(void)
 
 	for (n = '0'; n <= '9'; n++)
 	{
-		if (n == '4' || n == '9')
+		if ((n == '2') || (n == '4'))
 		{
 			continue;
 		}
