@@ -2,7 +2,7 @@
 
 /**
  * print_most_numbers - prints all accept 2 and 4
- * Return: all numbers except 4 and 9
+ * Return: all numbers except 2 and 4
  */
 
 void print_most_numbers(void)
