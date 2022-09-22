@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _strncat - concatenates two strings
  * @dest: string to be appended
@@ -7,7 +6,6 @@
  * @n: integer
  * Return: a new concatenated string
  */
-
 char *_strncat(char *dest, char *src, int n)
 {
 	int index = 0, dest_len = 0;
