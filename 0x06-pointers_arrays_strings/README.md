@@ -5,3 +5,4 @@ Write a function that copies a string
 compares two strings
 reverses the content of an array of integers
 changes all lowercase letters of a string to uppercase
+Write a function that capitalizes all words of a string
